@@ -1,0 +1,18 @@
+.Order {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+.Order span {
+  font-weight: bold;
+  font-size: 22px;
+}
+.Order ol {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.product .product-name {
+  font-size: 30px;
+  color: palevioletred;
+}

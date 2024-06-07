@@ -1,0 +1,16 @@
+.NotFound{
+  text-align: center;
+  line-height: 250px;
+  font-size: 200px;
+  font-weight: 900;
+}
+.NotFound_txt{
+  padding-bottom: 50px;
+  text-align: center;
+}
+.NotFound_txt a{
+  display: inline-block;
+  margin-left: 10px;
+  text-decoration: underline;
+  font-weight: 600;
+}

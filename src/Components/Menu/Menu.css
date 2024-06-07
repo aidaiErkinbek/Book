@@ -1,0 +1,24 @@
+.Menu li{
+  text-transform: uppercase;
+  padding: 3px 10px;
+  font-weight: 600;
+  transition: 0.3s;
+  border-bottom: 2px solid transparent;
+}
+.Menu li:hover{
+  border-color: #333;
+}
+.Foot_menu{
+  width: calc(100% - 250px);
+}
+footer .Menu ul{
+  flex-direction: column;
+  font-size: 12px;
+  padding-bottom: 20px;
+  display: inline-block;
+}
+footer .Menu li{
+  margin-bottom: 8px;
+  padding: 3px 0 1px;
+  text-transform: none;
+}
