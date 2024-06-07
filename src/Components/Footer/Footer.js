@@ -1,7 +1,7 @@
 import './Footer.css';
 import tw from '../../img/icons/tw.svg'
 import fb from '../../img/icons/facebook.svg'
-import inst from '../../img/icons/insta.jpg'
+import inst from '../../img/icons/insta.png'
 import tkt from '../../img/icons/tiktok.svg'
 import { Link } from 'react-router-dom';
 import secure from '../../img/footer.gif'
