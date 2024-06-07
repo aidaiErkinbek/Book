@@ -1,8 +1,8 @@
 .Btn {
   border-radius: 118px;
-  border: 2px solid #2c2f24;
+  border: 5px solid #2c2f24;
   transition: 0.3s;
-  color: #182226;
+  color: #008575;
   text-align: right;
   font-size: 16px;
   font-weight: 700;
