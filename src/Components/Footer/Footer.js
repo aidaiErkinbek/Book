@@ -71,10 +71,10 @@ function Footer() {
                   <Link to="#" className="Foot_logo">
                     <img src={tw} alt="" />
                   </Link>
-                  <Link to="#" className="Foot_logo">
+                  <Link to="https://www.facebook.com/?locale=ru_RU" className="Foot_logo">
                     <img src={fb} alt="" />
                   </Link>
-                  <Link to="#" className="Foot_logo">
+                  <Link to="https://www.instagram.com/" className="Foot_logo">
                     <img src={inst} alt="" />
                   </Link>
                   <Link to="#" className="Foot_logo">
