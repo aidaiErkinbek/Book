@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-
   width: 90%;
   padding: 10px 0;
   border-bottom: 1px solid gray;
@@ -32,7 +31,18 @@
   align-items: center;
   justify-content: space-between;
 }
-
+.CartCount{
+  border: 1px solid black;
+  background: red;
+  color: red;
+}
+.CartDelete{
+  border: 1px solid black;
+  background: red;
+  color: red;
+  width: 30px;
+  height: 30px;
+}
 @media (max-width: 880px) {
   .CartList .cartItem {
     font-size: 23px;

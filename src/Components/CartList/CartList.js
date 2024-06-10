@@ -31,13 +31,13 @@ export default function CartList() {
         <Link to={"/products/" + product.slug}>{product.name}</Link>
 
         <div className="inputs">
-        <input
+        <input className="CartCount"
           type="number"
           value={cart[product.name]}
           min={1}
           onChange={(event) => onQuantityChange(product, +event.target.value)} />
         <span>${(cart[product.id] * product.price).toFixed(2)}</span>
-        <i className="fa-solid fa-xmark" onClick={() => onItemRemove(product)} />
+        <i className="CartDelete" onClick={() => onItemRemove(product)} />
           </div>
       </div>
     ));
