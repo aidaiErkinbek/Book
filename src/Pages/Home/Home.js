@@ -1,11 +1,11 @@
 
 import './Home.css';
-import b1 from '../../img/b1.jpeg'
-import b2 from '../../img/b2.jpeg'
+import b1 from '../../img/b1.jpg'
+import b2 from '../../img/b2 1.jpg'
 import b3 from '../../img/b3.jpeg'
 import b4 from '../../img/b4.jpeg'
-import b5 from '../../img/b5.jpeg'
-import b6 from '../../img/b6.jpeg'
+import b5 from '../../img/b5 1.jpg'
+import b6 from '../../img/b6 1.jpg'
 import { Swiper, SwiperSlide } from "swiper/react";
 import 'swiper/css';
 import 'swiper/css/navigation';

@@ -1,8 +1,8 @@
 import './Footer.css';
-import tw from '../../img/icons/tw.svg'
-import fb from '../../img/icons/facebook.svg'
-import inst from '../../img/icons/insta.png'
-import tkt from '../../img/icons/tiktok.svg'
+import tw from '../../img/icons/image 9.svg'
+import fb from '../../img/icons/image 10.svg'
+import inst from '../../img/icons/image 6.svg'
+import tkt from '../../img/icons/image 8.svg'
 import { Link } from 'react-router-dom';
 import secure from '../../img/footer.gif'
 function Footer() {

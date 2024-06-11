@@ -36,13 +36,15 @@
 .ProductList span {
   font-size: 20px;
   color: red;
+ 
 }
 .ProductList .text {
-  max-width: 200px;
+  max-width: 220px;
   height: 90px;
   margin: 0 10px;
 }
 .ProductList .actions {
   margin: 0 0 10px 10px;
 }
+
 

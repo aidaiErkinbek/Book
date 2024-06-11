@@ -7,8 +7,11 @@
   border-radius: 5px;
   font-family: inherit;
   transition: all 100ms linear;
-  max-width: 200px;
+  max-width: 70px;
 }
 .AddToCart button:hover {
   background-color: #008575 ;
+}
+.AddToCart cart {
+  color: red;
 }
