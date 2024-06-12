@@ -1,6 +1,7 @@
 .Order {
   font-size: 20px;
   margin-bottom: 30px;
+  border: 1px solid;
 }
 .Order span {
   font-weight: bold;

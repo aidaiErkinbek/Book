@@ -8,7 +8,7 @@
     transition: 0.3s;
 }
 .CategoryList a:hover{
-    background: rgb(214, 214, 215);;
+    background: rgb(214, 214, 215);
 }
 .dropdownBtn{
     padding-bottom: 5px;

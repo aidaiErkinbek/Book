@@ -117,7 +117,7 @@ function Home() {
           This year's top sellers</h3>
         <div className="bestCart">
           <div className="bestCartIn flex">
-            <Link to="#" className="bestIn">
+            <Link to="/products/harry-potter-and-the-sorcerer's-stone:-the-illustrated-edition-(harry-potter,-book-1)" className="bestIn">
               <div className='imgCart'>
                 <img src={b1} alt="" /></div>
               <h3 className='cartName'>Harry Potter and the Sorcerer's</h3>

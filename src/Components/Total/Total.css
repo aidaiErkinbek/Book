@@ -1,0 +1,22 @@
+.Ttit{
+    margin-bottom: 10px;
+}
+.TItems{
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+}
+.TPrice{
+    margin-bottom: 10px;
+    color: red;
+}
+.Total{
+    border: 1px solid;
+    width: 250px;
+    background: rgb(214, 214, 215);
+    border-radius: 10px;
+    padding: 25px;
+    margin-top: 20px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: ;
+}

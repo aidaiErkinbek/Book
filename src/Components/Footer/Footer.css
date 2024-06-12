@@ -29,8 +29,11 @@
     margin-bottom: 20px;
 }
 .Foot_logo{
-    width: 35px;
+    width: 30px;
     margin-right: 10px;
+}
+.Foot_logo:hover{
+    transform: rotate(-18deg);
 }
 .FooterLinksSection li{
     margin-bottom: 4px;
